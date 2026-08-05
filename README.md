@@ -25,7 +25,7 @@ Java Developer | Frontend Enthusiast | DSA Learner | Cloud Computing Student
 
 ### ☁️ Cloud & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,eclipse" />
 </p>
 
 ---
