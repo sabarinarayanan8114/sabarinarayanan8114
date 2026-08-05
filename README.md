@@ -10,7 +10,7 @@ Java Developer | Frontend Enthusiast | DSA Learner | Cloud Computing Student
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,reactjs,nodejs" />
 </p>
 
 ### ☕ Programming Languages
