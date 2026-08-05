@@ -15,12 +15,12 @@ Java Developer | Frontend Enthusiast | DSA Learner | Cloud Computing Student
 
 ### ☕ Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### ☁️ Cloud & Tools
