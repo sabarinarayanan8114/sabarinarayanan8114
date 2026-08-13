@@ -18,7 +18,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sabari-narayanan-d-8114sj">
+<a href="https://www.linkedin.com/in/sabarinarayanand">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
