@@ -52,6 +52,18 @@
 </p>
 
 ---
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabarinarayanan8114&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabarinarayanan8114&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabarinarayanan8114&theme=tokyonight" width="100%"/>
+</p>
+
+---
 
 ## 📊 LeetCode Stats
 
